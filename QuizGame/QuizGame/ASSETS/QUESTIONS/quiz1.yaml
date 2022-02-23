@@ -1,0 +1,32 @@
+quizOne:
+   - question: QuestionOne
+     answer1: AnswerOne
+     answer2: AnswerTwo
+     answer3: AnswerThree
+     answer4: AnswerFour
+   - question: QuestionTwo
+     answer1: AnswerOne
+     answer2: AnswerTwo
+     answer3: AnswerThree
+     answer4: AnswerFour
+   - question: QuestionThree
+     answer1: AnswerOne
+     answer2: AnswerTwo
+     answer3: AnswerThree
+     answer4: AnswerFour
+quizTwo:
+   - question: QuestionOne
+     answer1: AnswerOne
+     answer2: AnswerTwo
+     answer3: AnswerThree
+     answer4: AnswerFour
+   - question: QuestionTwo
+     answer1: AnswerOne
+     answer2: AnswerTwo
+     answer3: AnswerThree
+     answer4: AnswerFour
+   - question: QuestionThree
+     answer1: AnswerOne
+     answer2: AnswerTwo
+     answer3: AnswerThree
+     answer4: AnswerFour

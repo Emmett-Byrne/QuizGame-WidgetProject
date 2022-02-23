@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="XBOX360CONTROLLER.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Widget.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="VLayout.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextButton.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioButton.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelLoader.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Layout.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Frame.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Container.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckButton.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionMenu.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="HighscoreMenu.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="SplashScreen.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="LicenseScreen.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScreen.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="StoryScreen.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="CreditsScreen.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="XBOX360CONTROLLER.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Widget.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="VLayout.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextButton.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="RadioButton.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelLoader.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Layout.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Frame.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Container.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckButton.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionMenu.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="States.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="HighscoreMenu.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="SplashScreen.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="LicenseScreen.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScreen.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="StoryScreen.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditsScreen.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{2d5776c5-ff4a-45c5-8b39-2cc8b4179c8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{ce64ce0d-ac5c-498d-9c43-422fa92820ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External resources">
+      <UniqueIdentifier>{7bc3fa1d-6b0d-407b-a87a-f6dc936a244b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="ASSETS\FONTS\ariblk.ttf">
+      <Filter>External resources</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\pictures\SFML-LOGO.png">
+      <Filter>External resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ASSETS\QUESTIONS\quiz1.yaml">
+      <Filter>External resources</Filter>
+    </None>
+  </ItemGroup>
+</Project>
